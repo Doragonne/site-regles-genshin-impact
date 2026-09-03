@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "Création de personnage/Compétences/Connaissance(s)"
+    - file.name != link("Connaissance(s)")
+views:
+  - type: table
+    name: Tableau
+    order:
+      - file.name
+      - Description
+    columnSize:
+      file.name: 170
+  - type: table
+    name: Vue
+    sort:
+      - property: file.name
+        direction: ASC

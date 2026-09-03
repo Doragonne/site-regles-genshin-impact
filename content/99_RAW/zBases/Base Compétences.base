@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == "Création de personnage/Compétences"
+    - file.folder != "Création de personnage/Compétences/Connaissance(s)"
+    - file.name != link("Compétences")
+views:
+  - type: table
+    name: Tableau
+    order:
+      - file.name
+      - Caractéristique
+      - Description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Caractéristique
+        direction: ASC

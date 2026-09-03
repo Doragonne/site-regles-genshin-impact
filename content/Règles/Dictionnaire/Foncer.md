@@ -1,0 +1,1 @@
+Si vous entreprenez l’action Foncer, vous recevez du déplacement supplémentaire pour ce tour. Vous vous déplacez plus vite et plus loin qu'a l'accoutumé.

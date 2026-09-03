@@ -1,0 +1,1 @@
+Une [[capacité élémentaire]] lancée à l'aide d'une carte de niveau 5 à 10 est considérée comme une compétence élémentaire.

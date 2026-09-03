@@ -1,0 +1,1 @@
+Lorsqu'une énergie **Pneuma** rencontre une énergie **Ousia**, les deux peuvent provoquer une **réaction d'annihilation**.

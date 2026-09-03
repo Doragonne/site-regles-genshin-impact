@@ -1,0 +1,1 @@
+Toute action réalisée dans le but d'attaquer et qui ne concerne pas une capacité élémentaire.

@@ -1,0 +1,1 @@
+Une [[capacité élémentaire]] lancée à l'aide d'un joker est considéré comme un miracle. Cette carte permet de lancer une [[capacité élémentaire]] de n'importe quel type, et doit etre considéré comme une réussite critique.

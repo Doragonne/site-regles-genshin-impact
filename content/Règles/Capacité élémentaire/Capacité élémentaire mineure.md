@@ -1,0 +1,1 @@
+Une [capacité élémentaire](app://obsidian.md/capacit%C3%A9%20%C3%A9l%C3%A9mentaire) lancée à l'aide d'une carte de niveau 1 à 4 est considérée comme une capacité élémentaire mineure.

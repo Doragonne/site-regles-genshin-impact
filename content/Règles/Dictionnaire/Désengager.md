@@ -1,0 +1,1 @@
+Si vous entreprenez l’action Désengagement, votre déplacement ne provoque pas d’attaque d’Opportunité jusqu'à la fin du tour.

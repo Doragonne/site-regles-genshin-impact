@@ -1,0 +1,1 @@
+Le **dé de chance** est **1d6** a ajouter a un autre jet de compétence, d'attaque, ou de caractéristique. Il ne peut pas etre utilisé pour des jets de dégâts

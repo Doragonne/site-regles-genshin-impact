@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.folder == "Création de personnage/Armes"
+    - file.name != link("Armes")
+views:
+  - type: table
+    name: Tableau
+    order:
+      - file.name
+      - Caractéristique

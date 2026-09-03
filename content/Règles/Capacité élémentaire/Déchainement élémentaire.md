@@ -1,0 +1,1 @@
+Une [[capacité élémentaire]] lancée à l'aide d'une carte de niveau 11 (valet), 12 (dame), ou 13 (roi) est considéré comme un déchainement élémentaire.

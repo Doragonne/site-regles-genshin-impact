@@ -1,0 +1,2 @@
+A la constellation 2, puis par la suite en C4 et C6, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. 
+Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.

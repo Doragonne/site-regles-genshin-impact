@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.folder == "Création de personnage/Compétences/Connaissance(s)"
+    - file.basename != "Connaissance(s)"
+views:
+  - type: table
+    name: Tableau

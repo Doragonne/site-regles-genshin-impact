@@ -1,0 +1,3 @@
+Vous pouvez aider d'autres créatures dans l'accomplissement d'une tâche. Quand vous choisissez l'action Aider, la créature que vous aidez a un avantage au prochain jet de caractéristique qu'elle fera pour accomplir la tâche pour laquelle vous l'aidez, à condition que le jet soit effectué avant le début de votre prochain tour.
+
+Vous pouvez aussi Aider une créature amicale à attaquer une créature qui est dans un rayon de 1,50 mètre autour de vous. Vous feintez ou distrayez la cible, ou de toutes autres façons vous travaillez en équipe pour rendre l'attaque de vos alliés plus efficace. Si votre allié attaque la cible avant votre prochain tour, le premier jet d'attaque qu'il fait a un avantage.
