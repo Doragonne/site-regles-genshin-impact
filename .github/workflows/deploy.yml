@@ -44,7 +44,7 @@ jobs:
       - name: Install Quartz plugins
         run: node ./quartz/bootstrap-cli.mjs plugin install
       - name: Build Quartz
-        run: node ./quartz/bootstrap-cli.mjs quartz build
+        run: node ./quartz/bootstrap-cli.mjs build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
