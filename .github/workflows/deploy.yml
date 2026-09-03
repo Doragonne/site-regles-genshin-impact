@@ -41,11 +41,6 @@ jobs:
             ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
-      - name: Debug Quartz
-        run: |
-          ls -la node_modules/.bin/quartz
-          readlink -f node_modules/.bin/quartz
-          ls -la $(readlink -f node_modules/.bin/quartz)
       - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
