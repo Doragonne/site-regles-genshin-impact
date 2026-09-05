@@ -111,10 +111,9 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
     options:
-      theme: default
-      mode: both
+      theme: "material-gruvbox"
+      mode: "light"
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -276,7 +275,7 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags
@@ -289,10 +288,6 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
-  - source: "@quartz-themes/core"
-    options:
-      theme: "material-gruvbox"
-      mode: "light"
 layout:
   groups:
     toolbar:
