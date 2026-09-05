@@ -289,6 +289,10 @@ plugins:
     layout:
       position: beforeBody
       priority: 15
+  - source: "@quartz-themes/core"
+    options:
+      theme: "material-gruvbox"
+      mode: "light"
 layout:
   groups:
     toolbar:
