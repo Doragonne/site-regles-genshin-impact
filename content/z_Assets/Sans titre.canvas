@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"6d6673f67371764d","type":"file","file":"Création de personnage/Classe/Aristocrate/Aristocrate.md","x":-920,"y":-320,"width":400,"height":400},
+		{"id":"3631fb956904ad48","type":"file","file":"Création de personnage/Classe/Marchand/Marchand.md","x":1640,"y":-320,"width":400,"height":400},
+		{"id":"10d0e9561e4937cb","type":"file","file":"Création de personnage/Classe/Artiste/Artiste.md","x":-640,"y":-840,"width":400,"height":400},
+		{"id":"89af044f151786bf","type":"file","file":"Création de personnage/Classe/Érudit/Érudit.md","x":1440,"y":-840,"width":400,"height":400},
+		{"id":"bbc92d58558ec57d","type":"file","file":"Création de personnage/Classe/Alchimiste/Alchimiste.md","x":-86,"y":-1040,"width":400,"height":400},
+		{"id":"bf0a26a8c2c104fd","type":"file","file":"Création de personnage/Classe/Artisan/Artisan.md","x":880,"y":-1040,"width":400,"height":400},
+		{"id":"f48b26660952a613","type":"file","file":"Création de personnage/Classe/Chasseur/Chasseur.md","x":400,"y":-1360,"width":400,"height":400},
+		{"id":"7a3590da158e3dbe","type":"file","file":"Création de personnage/Classe/Guerrier/Guerrier.md","x":-640,"y":200,"width":400,"height":400},
+		{"id":"8df01534c66954fa","type":"file","file":"Création de personnage/Classe/Hors-la-loi/Hors-la-loi.md","x":1440,"y":200,"width":400,"height":400},
+		{"id":"344858038b52c904","type":"file","file":"Création de personnage/Classe/Eclaireur/Eclaireur.md","x":-86,"y":520,"width":400,"height":400},
+		{"id":"69c9708996aba6a8","type":"file","file":"Création de personnage/Classe/Dévot/Dévot.md","x":880,"y":520,"width":400,"height":400},
+		{"id":"b34ee3dc76b008f4","type":"file","file":"Création de personnage/Classe/Sentinelle/Sentinelle.md","x":400,"y":800,"width":400,"height":400},
+		{"id":"876c215475b83ba6","type":"file","file":"Création de personnage/Classe/Aventurier/Aventurier.md","x":400,"y":-320,"width":400,"height":400}
+	],
+	"edges":[]
+}

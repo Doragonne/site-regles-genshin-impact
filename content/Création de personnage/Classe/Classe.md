@@ -4,32 +4,4 @@ La classe est la première définition de ce que votre personnage peut faire. C'
 
 Votre classe vous donne accès à différentes capacités spéciales. À bas niveau (ou [[Constellation]]), votre classe ne vous donne accès qu'à très peu de capacités, mais au fur et à mesure que vous montez de [[Constellation]], vous en gagnerez plus et vos capacités antérieures s'amélioreront souvent. Chaque classe présente un tableau qui résume les avantages que vous gagnez à toutes les [[Constellation]], ainsi qu'une explication détaillée de chacun d'eux.
 
-```folder-overview
-id: 24579a88-d53b-41a2-bfb5-e4fc38d64a0a
-folderPath: ""
-title: "{{folderName}} overview"
-showTitle: false
-depth: 3
-style: list
-includeTypes:
-  - folder
-  - markdown
-disableFileTag: false
-sortBy: name
-sortByAsc: true
-showEmptyFolders: false
-onlyIncludeSubfolders: false
-storeFolderCondition: true
-showFolderNotes: false
-disableCollapseIcon: true
-alwaysCollapse: false
-autoSync: true
-allowDragAndDrop: true
-hideLinkList: true
-hideFolderOverview: false
-useActualLinks: false
-fmtpIntegration: false
-titleSize: 1
-isInCallout: false
-useWikilinks: true
-```
+![[Base CLasse.base]]

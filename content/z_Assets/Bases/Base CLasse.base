@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Création de personnage/Classe")
+views:
+  - type: table
+    name: Tableau

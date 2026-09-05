@@ -5,4 +5,4 @@ Chaque type d’arme a une caractéristique principale qui lui est propre, et pe
 
 Pour lancer une attaque normale, chargée ou plongeante, les dés lancés sont en rapport avec la caractéristique principale de l’arme, et les effets varient selon le type d’arme comme suit :
 
-![[Sans titre.base]]
+![[Base CLasse.base]]
