@@ -51,7 +51,7 @@ plugins:
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
-    enabled: false
+    enabled: true
     options:
       theme:
         light: github-light
@@ -62,7 +62,7 @@ plugins:
     enabled: true
     options:
       comments: true
-      highlight: true
+      highlight: false
       wikilinks: true
       callouts: true
       mermaid: true
