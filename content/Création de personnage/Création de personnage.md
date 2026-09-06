@@ -1,7 +1,7 @@
 
 La première étape d'une partie de JDR est d'imaginer et de se créer son propre personnage. Un personnage est défini par des statistiques de jeu, des accroches de roleplay, et par votre imagination. Vous choisissez une classe et une région d'origine, une faction, etc. Vous inventez aussi la personnalité, l'apparence et l'histoire de votre personnage. Une fois cela achevé, votre personnage est votre avatar dans le monde de Teyvat.
 
-Avant de vous plonger dans la première étape ci-après, imaginez le type d'aventurier que vous voulez jouer. Vous pouvez être un courageux combattant, un roublard furtif, un clerc dévot ou un mage flamboyant. Ou encore vous pouvez choisir d'interpréter un personnage moins conventionnel, comme un robuste roublard aimant le combat rapproché, ou un tireur d'élite préférant abattre ses cibles de loin. Si vous ne savez pas par où commencer, jetez un œil aux jeu Genshin impact, ou bien demander a votre MJ pour trouver votre inspiration.
+Si vous ne savez pas par où commencer, jetez un œil aux jeu Genshin impact, ou bien demander a votre MJ pour trouver votre inspiration.
 
 Une fois que vous avez imaginé votre personnage, suivez les étapes ci-après dans l'ordre, en faisant les choix qui illustrent le mieux votre personnage. Le concept de votre personnage pourra évoluer en fonction de vos choix au fil de la création. Le plus important est de créer un personnage que vous aurez plaisir à jouer.
 
@@ -82,7 +82,6 @@ Les factions permettent d’avoir plus de matière pour développer le personnag
 Vous pourrez aussi intégrer une faction pendant le scénario / la campagne.
 
 ### Métier
-<font color="#ff0000">Pertinence ?</font>
 Si les joueurs le souhaite, il peuvent avoir un métier en particulier qui pourront leur attribuer de léger bonus dans leurs compétences ( à accorder selon le métier, il n’y a pas de liste toute faite)
 
 Possibilité aussi de permettre à certaines compétences d’aller au delà de la limite de 5 pts de compétence
@@ -92,7 +91,7 @@ Possibilité aussi de permettre à certaines compétences d’aller au delà de 
 ## 3) Choisir son affiliation élémentaire 
 
 Dans cet univers la magie est régit par des règles tres strictes. Elle se concentre en grande majorité en la manipulation élémentaire des sept éléments de Teyvat.
-Certains êtres exceptionnels possède un objet appelé **œil divin**. Cet objet leur permet de r**ésonner avec Celestia**, et donc avec l'ordre divin. Cette **résonnance** permet aux détenteurs d'œil divin de manipuler un des 7 éléments. La puissance qu'ils en tire dépend essentiellement de leur ambition.
+Certains êtres exceptionnels possède un objet appelé **œil divin**. Cet objet leur permet de **résonner avec Celestia**, et donc avec l'ordre divin. Cette **résonnance** permet aux détenteurs d'œil divin de manipuler un des 7 éléments. La puissance qu'ils en tire dépend essentiellement de leur ambition.
 
 Dans ce JDR, la magie sera utilisable par le biais de carte a jouer et deck expliqué dans les règles.
 
