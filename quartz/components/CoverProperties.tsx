@@ -1,4 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { resolveRelative } from "./util"
 
 const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const cover = fileData.frontmatter?.cover
@@ -13,7 +14,10 @@ const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) =>
 
   return (
     <div class="cover-properties">
-      <img src={`/${imageName}`} alt="" />
+      <img
+        src={resolveRelative(fileData.slug!, imageName)}
+        alt=""
+      />
     </div>
   )
 }
