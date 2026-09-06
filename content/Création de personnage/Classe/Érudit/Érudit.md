@@ -69,6 +69,6 @@ Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par c
 ### Régions conseillé
 
 ### Factions conseillé
-[[Académie de Sumeru (WIP)]], [[institut de recherche de Fontaine (WIP)]]
+[[Académie de Sumeru]], [[institut de recherche de Fontaine (WIP)]]
 ### Résonnances conseillées
 [[Omniscience]]

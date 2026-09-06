@@ -1,4 +1,5 @@
-**Création, matérialisation et manifestation.**
+> [!Mots clés]
+> **Création, matérialisation et manifestation.**
 
 L'Invocation regroupe les manipulations élémentaires permettant de **faire apparaître ou créer une entité tangible**.
 
@@ -16,6 +17,6 @@ Une entité invoquée peut parfois être contrôlée ou manipulée par son créa
 
 <font color="#9e52ff">Exemple Electro : Le joueur créer une chauve souris electro volante pour qu'elle attaque à ses cotés</font>
 
-<font color="#00b0f0">Exemple Hydro : Le joueur peut créer des murs d'eau ou des barrières pour bloquer les ennemis et protéger lui-même et ses alliés. Ces barrières peuvent également ralentir les ennemis qui les traversent, créant des opportunités tactiques.</font>
+<font color="#0070c0">Exemple Hydro : Le joueur peut créer des murs d'eau ou des barrières pour bloquer les ennemis et protéger lui-même et ses alliés. Ces barrières peuvent également ralentir les ennemis qui les traversent, créant des opportunités tactiques.</font>
 
-<font color="#ffc000">Exemple Geo : le joueur peut créer des plateformes ou des murs, ou bien encore des golems de pierre</font>
+<font color="#dea302">Exemple Geo : le joueur peut créer des plateformes ou des murs, ou bien encore des golems de pierre</font>

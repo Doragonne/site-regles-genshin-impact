@@ -16,7 +16,7 @@ L'Alchimiste est spécialisé dans **la préparation de consommables, les mélan
 
 ### Compétences
 Vous maitrisez 3 compétences parmi la liste suivantes : 
-- [[Alchimie]], [[Médecine]], [[Artisanat]], [[Connaissance Nature]], [[Connaissance Custom]] *(conseil : académie de sumeru, darshans [[Vahumana (WIP)]]  ou [[Amurta (WIP)]])*
+- [[Alchimie]], [[Médecine]], [[Artisanat]], [[Connaissance Nature]], [[Connaissance Custom]] *(conseil : académie de sumeru, darshans [[Vahumana]]  ou [[Amurta]])*
 
 ### Armes
 Vous ne maitrisez pas d'armes, cependant, vous obtenez le don [[Potions élémentaires]]
@@ -69,6 +69,6 @@ Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par c
 ### Régions conseillé
 [[Sumeru]]
 ### Factions conseillé
-[[Académie de Sumeru (WIP)]]
+[[Académie de Sumeru]]
 ### Résonnances conseillées
 [[Infusion]]

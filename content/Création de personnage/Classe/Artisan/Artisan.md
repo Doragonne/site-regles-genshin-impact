@@ -15,7 +15,7 @@ Les Artisans consacrent leur vie à créer, réparer et perfectionner toutes sor
 L'Artisan est un personnage spécialisé dans la **création, la réparation et l'utilisation des objets**. Son expérience lui permet également de reconnaître rapidement la qualité et la valeur de ce qu'il rencontre.
 ### Compétences
 Vous maitrisez 3 compétences parmi la liste suivantes : 
-- [[Artisanat]], [[Alchimie]], [[Estimation]], [[Investigation]], [[Connaissance Custom]] *(Conseil : Académie de sumeru, Darshans [[Kshahrewar (WIP)]] )*
+- [[Artisanat]], [[Alchimie]], [[Estimation]], [[Investigation]], [[Connaissance Custom]] *(Conseil : Académie de sumeru, Darshans [[Kshahrewar]] )*
 
 ### Armes
 Vous maitrisez une de ces armes :
@@ -68,6 +68,6 @@ Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par c
 ### Régions conseillé
 [[Fontaine/Fontaine]] (Mécanique, cuisine, joaillerie), [[Sumeru]] (techonologie), 
 ### Factions conseillé
-[[Académie de Sumeru (WIP)]],[[institut de recherche de Fontaine (WIP)]].
+[[Académie de Sumeru]],[[institut de recherche de Fontaine (WIP)]].
 ### Résonnances conseillées
 [[Infusion]], [[Omniscience]]

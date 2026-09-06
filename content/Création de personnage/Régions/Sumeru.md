@@ -4,7 +4,7 @@ Element:
 Archon:
   - Buer (Nahida)
 Idéal: Sagesse
-Corps dirigeant: "[[Académie de Sumeru (WIP)]]"
+Corps dirigeant: "[[Académie de Sumeru]]"
 Inspiration: Moyen orient, Inde antique, Egypte ancienne
 cover: "[[Sumeru Icon.png]]"
 ---
@@ -75,12 +75,12 @@ Vous pouvez également choisir **un Darshan** auquel votre personnage a été ra
 Chaque Darshan peut donner accès à une catégorie de connaissances particulière.
 
 Vous avez accès à de un nouveau type de connaissance selon votre Darshan : 
-- **[[Amurta (WIP)]]** → biologie, médecine, nature.
-- **[[Rtawahist (WIP)]]** → astronomie, astrologie, mathématiques.
-- **[[Haravatat (WIP)]]** → langage, écriture, cryptographie.
-- **[[Spantamad (WIP)]]** → élémentaire, alchimie, magie.
-- **[[Vahumana (WIP)]]** → histoire, archéologie, sciences humaines.
-- **[[Kshahrewar (WIP)]]** → ingénierie, mécanique, architecture.
+- **[[Amurta]]** → biologie, médecine, nature.
+- **[[Rtawahist]]** → astronomie, astrologie, mathématiques.
+- **[[Haravatat]]** → langage, écriture, cryptographie.
+- **[[Spantamad]]** → élémentaire, alchimie, magie.
+- **[[Vahumana]]** → histoire, archéologie, sciences humaines.
+- **[[Kshahrewar]]** → ingénierie, mécanique, architecture.
 
 ### Particularité — Érudition
 

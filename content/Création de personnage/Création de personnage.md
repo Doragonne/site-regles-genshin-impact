@@ -10,8 +10,6 @@ Une fois que vous avez imaginé votre personnage, suivez les étapes ci-après d
 Tout aventurier est membre d'une classe. Une classe dépeint la vocation d'un personnage, quels talents spécifiques il possède, et les tactiques les plus couramment employées par ses membres lors d'une exploration de donjons, pour combattre les monstres, ou s'engager dans d'intenses négociations. Le chapitre [[Classe]] fournit de plus amples informations sur celles-ci.
 
 Votre personnage bénéficie d'un certain nombre d'avantages découlant du choix de la classe. Nombre de ces avantages sont des **capacités de classes** – des aptitudes qui différencient votre personnage des membres des autres classes. Vous gagnez aussi un certain nombre de **maîtrises** : pour des armes, des compétences, des jets de sauvegarde et quelquefois des outils. Vos maîtrises définissent la plupart des choses pour lesquelles votre personnage est particulièrement compétent, allant de l'usage de certaines armes à savoir raconter des mensonges convaincants.
-
-
 ### Niveaux
 
 ![[Constellation]]
