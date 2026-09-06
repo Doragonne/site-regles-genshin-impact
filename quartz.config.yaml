@@ -273,6 +273,12 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: ./quartz/components/CoverProperties
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 14
+      display: all
 layout:
   groups:
     toolbar:
