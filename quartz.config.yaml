@@ -111,6 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: "material-gruvbox"
       mode: "light"
@@ -272,22 +273,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/note-properties
-    enabled: true
-    options:
-      includeAll: true
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: [title]
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
 layout:
   groups:
     toolbar:
