@@ -83,11 +83,11 @@ plugins:
     layout:
       position: right
       priority: 30
-  - source: "@quartz-community/crawl-links"
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
+- source: ./quartz/plugins/crawl-links
+  enabled: true
+  options:
+    markdownLinkResolution: shortest
+  order: 60
   - source: "@quartz-community/description"
     enabled: true
     order: 70
