@@ -2,7 +2,7 @@
 @use "themes";
 
 // put your custom CSS here!
-a.internal {
-  color: inherit;
-  background: none;
+a.internal.internal-link {
+  color: #d0d0d0 !important;
+  background: none !important;
 }
