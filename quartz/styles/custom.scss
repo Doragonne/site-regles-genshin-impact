@@ -2,3 +2,7 @@
 @use "themes";
 
 // put your custom CSS here!
+a.internal {
+  color: inherit;
+  background: none;
+}
