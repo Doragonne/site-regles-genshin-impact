@@ -1,6 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { joinSegments } from "../util/path"
 
-const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const CoverProperties: QuartzComponent = ({ fileData, cfg }: QuartzComponentProps) => {
   const cover = fileData.frontmatter?.cover
 
   if (!cover) {
@@ -11,11 +12,17 @@ const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) =>
     .replace(/^\[\[/, "")
     .replace(/\]\]$/, "")
 
-  const imagePath = `/z_Assets/zImages/Armes/${imageName}`
+  const imagePath = joinSegments(
+    cfg.baseUrl,
+    "z_Assets",
+    "zImages",
+    "Armes",
+    imageName,
+  )
 
   return (
     <div class="cover-properties">
-      <img src={imagePath} alt="" />
+      <img src={`/${imagePath}`} alt="" />
     </div>
   )
 }
