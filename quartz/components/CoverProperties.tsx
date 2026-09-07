@@ -1,5 +1,4 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative } from "./util"
 
 const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const cover = fileData.frontmatter?.cover
@@ -12,12 +11,11 @@ const CoverProperties: QuartzComponent = ({ fileData }: QuartzComponentProps) =>
     .replace(/^\[\[/, "")
     .replace(/\]\]$/, "")
 
+  const imagePath = `/z_Assets/zImages/Armes/${imageName}`
+
   return (
     <div class="cover-properties">
-      <img
-        src={resolveRelative(fileData.slug!, imageName)}
-        alt=""
-      />
+      <img src={imagePath} alt="" />
     </div>
   )
 }
