@@ -66,7 +66,7 @@ Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par c
 # Conseils/Notes du MJ
 
 ### Régions conseillé
-[[Fontaine/Fontaine]] (Mécanique, cuisine, joaillerie), [[Sumeru]] (techonologie), 
+[[Fontaine]] (Mécanique, cuisine, joaillerie), [[Sumeru]] (techonologie), 
 ### Factions conseillé
 [[Académie de Sumeru]],[[institut de recherche de Fontaine (WIP)]].
 ### Résonnances conseillées

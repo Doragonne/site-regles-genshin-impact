@@ -24,7 +24,7 @@ Voir aussi [[Comment monter de niveau (WIP)]]
 
 ![[Points de vie et Dés de vie]]
 
-Vos points de vie de départ sont égaux a 10 + le maximum de votre dé de vie, comme indiqué dans la description de votre [[classe]]. 
+Vos points de vie de départ sont égaux a 10 + le maximum de votre dé de vie, comme indiqué dans la description de votre [[Classe]]. 
 
 Notez vos points de vie sur votre feuille de personnage. De même, notez le type de votre dé de vie, et le nombre de dés de vie que vous possédez. Après un repos, vous pouvez dépenser des dés de vie pour regagner des points de vie (voir [[Repos]]).
 
