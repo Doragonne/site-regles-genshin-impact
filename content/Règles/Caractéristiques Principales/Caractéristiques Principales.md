@@ -3,11 +3,11 @@ Les caractéristiques représentent les principales aptitudes physiques et menta
 
 Votre personnage possède **cinq caractéristiques** :
 
-- **Force** — puissance physique et capacité à employer la force brute.
-- **Dextérité** — agilité, précision, coordination et réflexes physiques.
-- **Intelligence** — raisonnement, mémoire, connaissances et capacité d'analyse.
-- **Sagesse** — perception, intuition, expérience et compréhension du monde.
-- **Charisme** — personnalité, assurance, influence et capacité à interagir avec les autres.
+- [[Force]] — puissance physique et capacité à employer la force brute.
+- [[Dextérité]] — agilité, précision, coordination et réflexes physiques.
+- [[Intelligence]] — raisonnement, mémoire, connaissances et capacité d'analyse.
+- [[Sagesse]] — perception, intuition, expérience et compréhension du monde.
+- [[Charisme]] — personnalité, assurance, influence et capacité à interagir avec les autres.
 
 Chaque caractéristique possède une **valeur** et un **modificateur**.
 
@@ -57,35 +57,11 @@ Par exemple :
 	Le MJ demande un jet de **Force (Athlétisme)**.  
 	Vous lancez 1d20 + votre modificateur de Force + votre bonus de maîtrise si vous maîtrisez Athlétisme.
 
-# Utiliser chaque caractéristique
-
-![[Force]]
-
 ---
-
-![[Dexterité]]
-
----
-
-![[Intelligence]]
-
-
----
-
-![[Sagesse]]
-
-
----
-
-![[Charisme]]
-
----
-
-# Avantage et désavantage
 
 ![[Avantage et désavantage]]
 
-# Opposition
+---
 
 ![[Opposition]]
 
