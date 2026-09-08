@@ -7,6 +7,8 @@ Idéal: Contrats
 Corps dirigeant: Les sept étoiles de liyue
 Inspiration: Chine ancienne
 cover: "[[Liyue Icon.png]]"
+tags:
+  - Region
 ---
 Liyue est une région commerçante où les contrats, le commerce et les relations jouent un rôle central. Ses habitants ont également une longue histoire avec les Adeptes et les nombreuses créatures qui peuplent les montagnes.
 

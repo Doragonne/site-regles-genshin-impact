@@ -5,28 +5,48 @@ Si vous ne savez pas par où commencer, jetez un œil aux jeu Genshin impact, ou
 
 Une fois que vous avez imaginé votre personnage, suivez les étapes ci-après dans l'ordre, en faisant les choix qui illustrent le mieux votre personnage. Le concept de votre personnage pourra évoluer en fonction de vos choix au fil de la création. Le plus important est de créer un personnage que vous aurez plaisir à jouer.
 
+## Création de personnage
+Voici les étapes de la création de personnage, qui sont chacune détaillées :
 
-## 1) Choisir une Classe
+1. Choisir une [[Classe]]
+2. Lui donner un [[#2) Description et Histoire|historique]]
+	1. Choisir une [[Régions]] d'origine
+	2. Choisir une [[Factions]]
+3. Choisir une [[#3) Choisir son affiliation élémentaire|Affiliation élémentaire]]
+	1. Choisir un [[oeil divin (WIP)]]
+	2. Choisir 2 [[Résonances]] (rendez-vous dans la section [[#Résonance]] pour plus de détails)
+4. Déterminer les [[#4) Déterminer les valeurs de caractéristiques|valeurs de caractéristiques]]
+5. Guide de [[#5) Description de son personnage|Description de son personnage]], cette section sert de guide pour les nouveaux joueurs
+
+
+---
+
+# 1) Choisir une Classe
 Tout aventurier est membre d'une classe. Une classe dépeint la vocation d'un personnage, quels talents spécifiques il possède, et les tactiques les plus couramment employées par ses membres lors d'une exploration de donjons, pour combattre les monstres, ou s'engager dans d'intenses négociations. Le chapitre [[Classe]] fournit de plus amples informations sur celles-ci.
 
 Votre personnage bénéficie d'un certain nombre d'avantages découlant du choix de la classe. Nombre de ces avantages sont des **capacités de classes** – des aptitudes qui différencient votre personnage des membres des autres classes. Vous gagnez aussi un certain nombre de **maîtrises** : pour des armes, des compétences, des jets de sauvegarde et quelquefois des outils. Vos maîtrises définissent la plupart des choses pour lesquelles votre personnage est particulièrement compétent, allant de l'usage de certaines armes à savoir raconter des mensonges convaincants.
+
+
 ### Niveaux
 
-![[Constellation]]
+Dans ce JDR Genshin Impact, les joueurs ne montent pas de niveau, ils montent en Constellation.
+(voir [[Constellation]])
 
-Généralement, un personnage débute à la Constellation 0 et progresse en constellation en partant à l'aventure. En C0, un personnage est inexpérimenté dans le monde des aventuriers, bien qu'il ait pu être un soldat ou un pirate et avoir déjà affronté le danger par le passé.
-
-Débuter en C0 marque l'entrée de votre personnage dans la vie d'aventurier. Si vous avez déjà une expérience du jeu, ou si vous rejoignez une campagne existante, votre MJ peut décider de vous faire débuter à une constellation plus élevée, considérant que votre personnage a déjà vécu des aventures harassantes.
+A la création de personnage, vous pouvez jeter 6 dés (ou objet) sur l’espace constellation de votre fiche personnage, si un dé sort de l’espace, relancez le. Ensuite, entourez les dé avec un crayon. Enfin, en reliant chaque point, vous pouvez créer votre propre constellation.
 
 Voir aussi [[Comment monter de niveau (WIP)]]
 
-### Points de vie et Dés de vie
 
-![[Points de vie et Dés de vie]]
+### Points de vie et Dés de vie
 
 Vos points de vie de départ sont égaux a 10 + le maximum de votre dé de vie, comme indiqué dans la description de votre [[Classe]]. 
 
-Notez vos points de vie sur votre feuille de personnage. De même, notez le type de votre dé de vie, et le nombre de dés de vie que vous possédez. Après un repos, vous pouvez dépenser des dés de vie pour regagner des points de vie (voir [[Repos]]).
+En C0, votre personnage possède 1 dé de vie, et le type de ce dé est défini par votre [[Classe]].  
+Vous aurez par la suite autant de dé de vie maximum que de niveau de Constellation.
+
+Notez vos points de vie sur votre feuille de personnage. De même, notez le type de votre dé de vie, et le nombre de dés de vie que vous possédez. 
+(voir [[Points de vie et Dés de vie]])
+
 
 ### Bonus de maîtrise
 (Voir [[Bonus de maîtrise]])
@@ -40,8 +60,10 @@ Le tableau dans la description de votre classe indique votre bonus de maîtrise,
 
 Votre classe détermine vos maîtrises d'armes, de jets de sauvegarde et de certaines de vos compétences. Votre historique, votre région d'origine, vos factions, ou votre race peuvent aussi vous donner d'autres maîtrises de compétences. Notez toutes ces maîtrises ainsi que votre bonus de maîtrise sur votre feuille de personnage.
 
+
 ---
-## 2) Description et Histoire
+
+# 2) Description et Histoire
 
 ### Région d'origine
 Votre région d'origine représente le lieu dans lequel votre personnage a grandi ou a passé une partie importante de sa vie.
@@ -79,10 +101,12 @@ Les factions permettent d’avoir plus de matière pour développer le personnag
 
 Vous pourrez aussi intégrer une faction pendant le scénario / la campagne.
 
+
 ### Métier
 Si les joueurs le souhaite, il peuvent avoir un métier en particulier qui pourront leur attribuer de léger bonus dans leurs compétences ( à accorder selon le métier, il n’y a pas de liste toute faite)
 
 Possibilité aussi de permettre à certaines compétences d’aller au delà de la limite de 5 pts de compétence
+
 
 
 ---

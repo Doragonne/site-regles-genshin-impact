@@ -7,6 +7,8 @@ Idéal: Guerre
 Corps dirigeant: Bureau de délibération
 Inspiration: " Amérique précolombienne, Afrique subsaharienne et Océanie"
 cover: "[[Natlan Icon.png]]"
+tags:
+  - Region
 ---
 Natlan est une région où les peuples entretiennent un lien particulièrement fort avec les flammes, les combats, les tribus et les créatures qui parcourent ses terres.
 

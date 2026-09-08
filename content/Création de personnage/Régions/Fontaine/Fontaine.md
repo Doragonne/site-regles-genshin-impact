@@ -7,6 +7,8 @@ Idéal: Justice
 Corps dirigeant: Palais Mermonia
 Inspiration: Europe occidentale
 cover: "[[Fontaine Icon.png]]"
+tags:
+  - Region
 ---
 Fontaine est connue pour sa technologie avancée, ses inventions, ses spectacles et son système judiciaire complexe.
 

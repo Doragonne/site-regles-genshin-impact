@@ -18,6 +18,7 @@ Une valeur de **10 ou 11** représente une capacité humaine moyenne. Une valeur
 | Valeur       | 2-3 | 4-5 | 6-7 | 8-9 | 10-11 | 12-13 | 14-15 | 16-17 | 18-19 | 20-21 |
 | ------------ | :-: | :-: | :-: | :-: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Modificateur | -4  | -3  | -2  | -1  |   0   |  +1   |  +2   |  +3   |  +4   |  +5   |
+
 Le modificateur d'une caractéristique est utilisé pour les jets associés à cette caractéristique.
 
 Pour calculer rapidement un modificateur, soustrayez **10 à la valeur de la caractéristique**, puis divisez le résultat par 2 en arrondissant à l'inférieur.

@@ -7,6 +7,8 @@ Idéal: Sagesse
 Corps dirigeant: "[[Académie de Sumeru]]"
 Inspiration: Moyen orient, Inde antique, Egypte ancienne
 cover: "[[Sumeru Icon.png]]"
+tags:
+  - Region
 ---
 Sumeru est une immense regions chargée d'histoire. 
 Elle est divisée en deux sous région, le désert de Sumeru et la forêt de Sumeru. De cette divisions est né deux manières d'appréhender l'idéal de la Sagesse.

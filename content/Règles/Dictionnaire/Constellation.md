@@ -3,6 +3,7 @@ Dans ce JDR Genshin Impact, les joueurs ne montent pas de niveau, ils montent en
 
 A chaque nouvelle Constellation, votre personnage est de plus en plus aligné avec son destin, et se voit gagner en force et en capacité. Il peut gagner de nouvelles aptitudes inscrites dans le tableau de votre [[Classe]].
 
-A la création de personnage, vous pouvez  jeter 6 dés (ou objet) sur l’espace constellation de votre fiche personnage, si un dé sort de l’espace, relancez le. Ensuite, entourez les dé avec un crayon. Enfin, en reliant chaque point, vous pouvez créer votre propre constellation. 
+Généralement, un personnage débute à la Constellation 0 et progresse en constellation en partant à l'aventure. En C0, un personnage est inexpérimenté dans le monde des aventuriers, bien qu'il ait pu être un soldat ou un pirate et avoir déjà affronté le danger par le passé.
+
 
 

@@ -7,6 +7,8 @@ Idéal: Liberté
 Corps dirigeant: Ordre de favonius
 Inspiration: Europe centrale médiévale
 cover: "[[Mondstadt Icon.png]]"
+tags:
+  - Region
 ---
 Mondstadt est une région connue pour sa culture de la liberté, ses chevaliers, ses bardes et ses vastes plaines. Ses habitants sont généralement habitués à voyager et à vivre de manière relativement indépendante.
 

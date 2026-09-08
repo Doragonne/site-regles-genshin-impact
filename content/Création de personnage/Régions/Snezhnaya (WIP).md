@@ -7,6 +7,8 @@ Idéal: Amour
 Corps dirigeant: ???
 Inspiration: Russie
 cover: "[[Snezhnaya icon.png]]"
+tags:
+  - Region
 ---
 Snezhnaya est une nation puissante, industrielle et profondément liée aux Fatui. Ses habitants sont habitués à vivre dans un climat difficile et dans une société où l'organisation et l'influence politique occupent une place importante.
 

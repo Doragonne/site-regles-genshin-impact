@@ -7,6 +7,8 @@ Idéal: Eternité
 Corps dirigeant: Shogunat d'inazuma
 Inspiration: Edo Japon
 cover: "[[Inazuma Icon.png]]"
+tags:
+  - Region
 ---
 Inazuma est un archipel marqué par son isolement, ses traditions ancestrales et la présence de nombreuses créatures surnaturelles.
 

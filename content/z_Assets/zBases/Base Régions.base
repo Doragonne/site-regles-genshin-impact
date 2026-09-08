@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.tags.contains("Region")
+views:
+  - type: table
+    name: Tableau
+    order:
+      - file.name
+      - Archon
+      - Element
+      - Idéal
+      - Inspiration
+    sort:
+      - property: file.name
+        direction: ASC
