@@ -6,4 +6,4 @@ Bienvenue dans ce site dédié aux règles et aux systèmes du JDR basé sur l'u
 Voici les différentes pages que vous pouvez explorer : 
 - [[Création de personnage]]
 - [[Règles]]
-- [[Fiches personnages/GenshinImpact_CharacterSheet1.0.pdf]]
+- [[Fiches personnages]]
