@@ -1,35 +1,7 @@
 {
 	"nodes":[
 		{"id":"9d8864d28a421d0a","type":"file","file":"Character sheet Templates recto.png","x":-1570,"y":778,"width":3661,"height":5179},
-		{
-			"id":"36f843aeb9348ee0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{
-				"border":null,
-				"shape":"pill"
-			},
-			"x":-424,
-			"y":1447,
-			"width":758,
-			"height":60,
-			"color":"1"
-		},
 		{"id":"2bdd63c872d3b8f0","type":"file","file":"Création de personnage/Classe/Classe.md","x":-2064,"y":1252,"width":400,"height":243,"color":"1"},
-		{
-			"id":"111891ba24678b56",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{
-				"border":null,
-				"shape":"pill"
-			},
-			"x":-415,
-			"y":1531,
-			"width":758,
-			"height":60,
-			"color":"3"
-		},
 		{"id":"b8da38c134e1861b","type":"file","file":"Règles/Régions/Régions.md","x":-2066,"y":1034,"width":400,"height":154,"color":"4"},
 		{
 			"id":"7ffc6357500e2f70",
@@ -42,19 +14,64 @@
 			"height":122,
 			"color":"3"
 		},
+		{"id":"4cf98c6d3f94b3b3","type":"file","file":"Création de personnage/Résonances/Résonances.md","x":583,"y":522,"width":400,"height":183,"color":"1"},
 		{
 			"id":"8f93b3d16e8895b6",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{"shape":"pill"},
-			"x":-646,
-			"y":1356,
+			"x":-644,
+			"y":1345,
 			"width":972,
 			"height":60,
 			"color":"4"
 		},
-		{"id":"46de1401124919bf","type":"text","text":"","x":572,"y":1074,"width":464,"height":488,"color":"1"},
-		{"id":"4cf98c6d3f94b3b3","type":"file","file":"Création de personnage/Résonances/Résonances.md","x":583,"y":522,"width":400,"height":183,"color":"1"}
+		{
+			"id":"36f843aeb9348ee0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{
+				"border":null,
+				"shape":"pill"
+			},
+			"x":-426,
+			"y":1445,
+			"width":758,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"111891ba24678b56",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{
+				"border":null,
+				"shape":"pill"
+			},
+			"x":-424,
+			"y":1542,
+			"width":758,
+			"height":60,
+			"color":"3"
+		},
+		{"id":"46de1401124919bf","type":"text","text":"","x":546,"y":1083,"width":464,"height":488,"color":"1"},
+		{"id":"90de8f89d3ff0946","type":"text","text":"","x":-424,"y":2113,"width":212,"height":116},
+		{
+			"id":"66e4b5f649ab48f0",
+			"type":"text",
+			"text":"![[Création de personnage#Points de vie et Dés de vie]]",
+			"styleAttributes":{},
+			"x":-2064,
+			"y":1990,
+			"width":422,
+			"height":370,
+			"color":"3"
+		},
+		{"id":"3bcc4bc5e3062c53","x":-387,"y":161,"width":1486,"height":74,"color":"#ff0000","type":"text","text":"# Vous pouvez cliquer sur chacune des notes lié aux différentes sections de la fiche de personnage pour plus d'informations"},
+		{"id":"7698a43d8f02eda4","x":1419,"y":1133,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f662a61fa2848e39","x":2276,"y":971,"width":400,"height":400,"type":"file","file":"Règles/Dictionnaire/oeil divin (WIP).md"},
+		{"id":"8414cb24b6bc6ee2","type":"text","text":"","x":1717,"y":1609,"width":158,"height":57},
+		{"id":"cfe662c2892643b8","x":2281,"y":1440,"width":400,"height":400,"type":"file","file":"Règles/Dictionnaire/CA (Classe d'armure).md"}
 	],
 	"edges":[
 		{"id":"760532f83a647f3b","toFloating":false,"fromNode":"4cf98c6d3f94b3b3","fromSide":"bottom","toNode":"46de1401124919bf","toSide":"top","toEnd":"none","color":"1"},
@@ -69,6 +86,7 @@
 			"fromSide":"left",
 			"toNode":"2bdd63c872d3b8f0",
 			"toSide":"right",
+			"toEnd":"none",
 			"color":"1"
 		},
 		{
@@ -82,6 +100,7 @@
 			"fromSide":"left",
 			"toNode":"b8da38c134e1861b",
 			"toSide":"right",
+			"toEnd":"none",
 			"color":"4"
 		},
 		{
@@ -93,8 +112,12 @@
 			"fromSide":"right",
 			"toNode":"111891ba24678b56",
 			"toSide":"left",
+			"toEnd":"none",
 			"color":"3"
-		}
+		},
+		{"id":"44659b050d2c57ea","fromNode":"90de8f89d3ff0946","fromSide":"left","toNode":"66e4b5f649ab48f0","toSide":"right"},
+		{"id":"699adfe51614ce11","fromNode":"7698a43d8f02eda4","fromSide":"right","toNode":"f662a61fa2848e39","toSide":"left"},
+		{"id":"f15c0544e5e1f469","fromNode":"8414cb24b6bc6ee2","fromSide":"right","toNode":"cfe662c2892643b8","toSide":"left"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
