@@ -129,11 +129,20 @@ a.internal.internal-link {
   }
 }
 
-/* Réduire l'espace après la fiche */
+
+/* Réduire l'espace sous la fiche pretty-properties */
 .callout[data-callout="pretty-properties"] {
   margin-bottom: 0.5rem;
-
-  & + p {
-    margin-top: 0.5rem;
-  }
 }
+
+/* Rapprocher la citation de la fiche */
+.callout[data-callout="pretty-properties"] + blockquote {
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Rapprocher le descriptif de la citation */
+.callout[data-callout="pretty-properties"] + blockquote + p {
+  margin-top: 0.5rem;
+}
+
