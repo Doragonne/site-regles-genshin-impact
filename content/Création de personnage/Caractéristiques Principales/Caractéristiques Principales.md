@@ -23,6 +23,16 @@ Le modificateur d'une caractéristique est utilisé pour les jets associés à c
 
 Pour calculer rapidement un modificateur, soustrayez **10 à la valeur de la caractéristique**, puis divisez le résultat par 2 en arrondissant à l'inférieur.
 
+
+> [!NOTE] A la création de personnage
+> Vous déterminez les six valeurs de caractéristiques de votre personnage, utilisez la série suivante : 15, 14, 13, 12, 10, 8.
+> 
+> Maintenant, affectez et notez chaque nombre en face de l'une des six caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
+> 
+> Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessus. 
+> Inscrivez chaque modificateur au dessus de la caractéristique correspondante.
+
+
 # Jets de caractéristique
 
 Lorsqu'un personnage tente une action dont l'issue est incertaine, le MJ peut lui demander d'effectuer un **jet de caractéristique**.

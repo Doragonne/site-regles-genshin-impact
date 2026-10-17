@@ -1,3 +1,4 @@
+![[Création de personnage#Particules Elémentaires]]
 Les **Particules élémentaires** représentent l'énergie que votre personnage peut accumuler et canaliser afin de renforcer ou modifier l'utilisation de son élément.
 
 Ils permettent notamment d'utiliser certaines **capacités élémentaires**, des effets spéciaux ou des techniques propres à votre classe.

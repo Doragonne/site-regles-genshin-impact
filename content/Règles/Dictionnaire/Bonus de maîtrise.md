@@ -1,6 +1,6 @@
 Votre **bonus de maîtrise** représente votre expérience et votre entraînement dans différents domaines.
 
-Ce bonus dépend de votre **Constellation**, comme indiqué dans le tableau de votre classe.
+Ce bonus dépend de votre **Constellation**, comme indiqué dans le tableau de votre [[Classe]].
 
 Lorsque vous maîtrisez une compétence ou une arme, vous ajoutez votre bonus de maîtrise aux jets correspondants.
 	Par exemple, si vous maîtrisez **Discrétion**, vous ajoutez votre bonus de maîtrise à vos jets de Dextérité (Discrétion).

@@ -13,13 +13,9 @@ Ces Yeux Divins peuvent être de 7 éléments différents :
 | Eau   | Air   | Terre | Electricité | Feu  | Glace | Plante |
 
 ![[Oeil Divin Guide.jpg]]
-#### A la création de personnage
-Vous pouvez choisir un œil divin dès le début de l'aventure si votre personnage en a déjà obtenu un dans le passé, dans ce cas, il est bon de préciser dans son histoire comment celui-ci l'a obtenu. Vous pouvez aussi choisir de ne pas avoir d'œil divin dès le début, et il se pourrait qu'au cours de votre aventure, si les dieux vous remarque, vous en obteniez un.
 
-Lorsque vous obtenez un oeil divin, il vous accorde la maitrise d'une caractéristique de combat selon son élément comme suit : 
+---
+# A la création de personnage
+![[Création de personnage#Oeil divin]]
 
-| Hydro | Anemo | Geo | Electro | Pyro | Cryo | Dendro    |
-| ----- | ----- | --- | ------- | ---- | ---- | --------- |
-| PV    | EM    | DEF | ER      | ATQ  | ATQ  | Aux choix |
-Votre Oeil divin vous permet de canaliser votre élément afin d'utiliser vos **capacités élémentaires**.
-Ces capacités utilisent le système de **cartes** (Voir [[Cartes élémentaires]]). Votre élément n'est pas la seule chose qui détermine les capacités élémentaires que vous pouvez apprendre et utiliser.
+![[Création de personnage#Utilisation de l'Oeil divin]]

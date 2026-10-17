@@ -6,3 +6,6 @@ Il en existe de plusieurs type :
 
 | [[Abjuration]] | [[Enchantement]] | [[Evocation]] | [[Illusion]] | [[Infusion]] | [[Invocation]] | [[Omniscience]] |
 | :------------: | :--------------: | :-----------: | :----------: | :----------: | :------------: | :-------------: |
+
+---
+![[Création de personnage#Résonance]]

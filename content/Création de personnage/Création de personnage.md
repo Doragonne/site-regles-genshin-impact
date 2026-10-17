@@ -40,7 +40,7 @@ Voir aussi [[Comment monter de niveau (WIP)]]
 
 ### Points de vie et Dés de vie
 
-Vos points de vie de départ sont égaux a 10 + le maximum de votre dé de vie, comme indiqué dans la description de votre [[Classe]]. 
+Vos points de vie de départ sont **égaux a 10 + le maximum de votre dé de vie**, comme indiqué dans la description de votre [[Classe]]. 
 
 En C0, votre personnage possède 1 dé de vie, et le type de ce dé est défini par votre [[Classe]].  
 Vous aurez par la suite autant de dé de vie maximum que de niveau de Constellation.
@@ -122,6 +122,7 @@ Dans ce JDR, la magie sera utilisable par le biais de carte a jouer et deck expl
 
 L'**Oeil divin** est la manifestation du lien qui unit un individu à un élément. Il permet à son porteur de manipuler cet élément et d'utiliser les **capacités élémentaires** qui lui sont associées.
 (voir [[œil divin]])
+Vous pouvez choisir un œil divin dès le début de l'aventure si votre personnage en a déjà obtenu un dans le passé, dans ce cas, il est bon de préciser dans son histoire comment celui-ci l'a obtenu.
 
 Lors de la création de votre personnage, vous choisissez **l'élément** de votre Oeil divin parmi les éléments disponibles ci-après.
 Cet élément devient votre **élément principal** et détermine les capacités élémentaires que vous pouvez apprendre.
@@ -136,7 +137,7 @@ Lorsque vous obtenez un œil divin, il vous accorde la maitrise d'une **caracté
 L'Oeil divin ne détermine pas votre classe ni votre région d'origine. Deux personnages appartenant à la même classe ou originaires de la même région peuvent donc posséder des Yeux divins d'éléments différents.
 
 Notez qu'il est toute fois possible de ne pas possédé d'œil divin dès le début de l'aventure. Vous pourrez en acquérir un pendant l'aventure, apres avoir effectuer quelque chose qui mérite l'attention des Dieux en accord avec votre ambition et vos valeurs. 
-*(Dans ce cas, vous pouvez directement vous rendre à l'étape 5)*
+*([[Création de personnage#5) Description de son personnage|Dans ce cas, vous pouvez directement vous rendre à l'étape 5 ]])*
 
 ### Utilisation de l'Oeil divin
 Votre Oeil divin vous permet de canaliser votre élément afin d'utiliser vos **capacités élémentaires**.
@@ -179,7 +180,7 @@ Vous déterminez les six valeurs de caractéristiques de votre personnage, utili
 
 Maintenant, affectez et notez chaque nombre en face de l'une des six caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
 
-Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessous. Pour calculer la valeur d'un modificateur sans utiliser la table, soustrayez 10 à la valeur, et divisez le résultat par 2, en conservant la partie entière inférieure. Inscrivez chaque modificateur à côté de la caractéristique correspondante.
+Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessous. Pour calculer la valeur d'un modificateur sans utiliser la table, soustrayez 10 à la valeur, et divisez le résultat par 2, en conservant la partie entière inférieure. Inscrivez chaque modificateur au dessus de la caractéristique correspondante.
 
 | Valeur       | 2-3 | 4-5 | 6-7 | 8-9 | 10-11 | 12-13 | 14-15 | 16-17 | 18-19 | 20-21 |
 | ------------ | :-: | :-: | :-: | :-: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -190,16 +191,16 @@ Déterminez ensuite vos **modificateurs de caractéristiques** en vous référ
 ![[CA (Classe d'armure)]]
 
 
-### Points Elémentaires
+### Particules Elémentaires
 
-Les **Points élémentaires**, aussi noté PE, représentent l'énergie que votre personnage peut accumuler et canaliser afin de renforcer ou modifier l'utilisation de son élément.
+Les **Particules élémentaires**, aussi noté PE, représentent l'énergie que votre personnage peut accumuler et canaliser afin de renforcer ou modifier l'utilisation de son élément.
 
 Votre nombre **maximum de PE est égal à votre valeur de Bonus de Maitrise**. 
 
 Pour plus d'information sur les PE, voir [[PE (Particules Elémentaires)]]
 
 
-### Caractéristiques de combat
+### Statistiques principales
 
 À la création du personnage, vous disposez de **5 points** à répartir entre **ATQ**, **DEF** et **EM**, avec un maximum de **5 points dans une même statistique**.
 
@@ -227,7 +228,7 @@ Par exemple, un personnage petit ne pourra pas porter un personnage grand. Tout 
  
  Il existe plusieurs espèces et race ayant une grande longévité. A titre indicatif, ce qui suit sera donc a la discrétion de la moyenne d'âge correspondant a la race de votre personnage.
  
- Cet âge vous pourrait vous accorder des bonus et malus comme suit. Vous et votre MJ pourrez juger de la pertinence de ces modifications.
+ Cet âge vous pourrez vous accorder des bonus et malus comme suit. Vous et votre MJ pourrez juger de la pertinence de ces modifications.
  
 - Enfant
 	- -1 FOR, -1 SAG, +2 DEX

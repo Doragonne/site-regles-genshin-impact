@@ -4,6 +4,9 @@ Ces statistiques sont utilisées pour résoudre des situations impliquant l'appl
 
 Elles peuvent uniquement être améliorées grâce à certains **objets, armes et artefacts**.
 
+---
+### A la création de personnage
+![[Création de personnage#Statistiques principales]]
 
 ---
 
