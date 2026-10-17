@@ -25,6 +25,8 @@ tags:
 >
 > **Inspiration** : Europe Occidentale
 
+---
+
 Fontaine est connue pour sa technologie avancée, ses inventions, ses spectacles et son système judiciaire complexe.
 
 ### Compétence régionale

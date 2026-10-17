@@ -16,6 +16,8 @@ Dé de vie:
 >
 > **Dé de vie :** D8
 
+---
+
 _"L'acier tranche les débats les plus longs."_
 
 Les Guerriers ont consacré une partie importante de leur vie à l'apprentissage du combat. Soldats, mercenaires, gardes, chevaliers ou combattants indépendants, ils ont appris à manier les armes avec discipline et à garder leur sang-froid lorsque les combats éclatent.

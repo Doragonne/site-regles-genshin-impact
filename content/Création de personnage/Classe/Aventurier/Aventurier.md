@@ -16,6 +16,8 @@ Dé de vie:
 >
 > **Dé de vie :** D8
 
+---
+
 _"Le monde appartient à ceux qui osent s'y perdre."_
 
 Les Aventuriers parcourent Teyvat à la recherche de trésors, de ruines oubliées et de nouvelles contrées. Habitués à l'imprévu, ils savent s'adapter rapidement aux situations qu'ils rencontrent et tirer parti de leur environnement. Qu'ils soient membres de la Guilde des Aventuriers ou voyageurs indépendants, leur expérience leur permet de faire face à des situations très diverses.

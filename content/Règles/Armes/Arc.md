@@ -20,8 +20,7 @@ Conditions: Œil divin recommandé
 > 
 >  **Conditions :** Œil divin recommandé
 
-
-
+---
 
 ### Description
 Les arcs permettent d'attaquer à distance et disposent donc de la portée la plus importante.

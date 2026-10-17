@@ -16,6 +16,7 @@ Dé de vie:
 >
 > **Dé de vie :** D6
 
+---
 
 _"Le pouvoir ne réside pas toujours dans celui qui donne les ordres, mais dans celui que tout le monde écoute."_
 

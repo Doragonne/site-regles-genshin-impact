@@ -19,6 +19,8 @@ Conditions: Aucune
 > 
 >  **Conditions :** Aucune
 
+---
+
 ### Description
 Les épées à une main sont l'intermédiaire des épées à deux mains et des lances en terme de dégâts et de vitesse d'attaque.
 

@@ -19,6 +19,8 @@ Conditions: Aucune
 > 
 >  **Conditions :** Aucune
 
+---
+
 ### Description
 Les armes d'hast sont celles qui ont la vitesse d'attaque la plus élevée en plus de disposer d'une bonne portée.
 

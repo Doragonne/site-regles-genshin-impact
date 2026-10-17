@@ -15,7 +15,7 @@ Dé de vie:
 >
 > **Dé de vie :** D8
 
-
+---
 
 _"La différence entre un remède et un poison n'est parfois qu'une question de dosage."_
 

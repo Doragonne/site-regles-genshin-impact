@@ -19,6 +19,8 @@ Conditions: Aucune
 > 
 >  **Conditions :** Aucune
 
+---
+
 ### Description
 Les épées à deux mains sont les armes les plus lentes mais en contrepartie elles infligent plus de dégâts à chaque attaque. Elles octroient également un bonus pour casser les objets Géo.
 

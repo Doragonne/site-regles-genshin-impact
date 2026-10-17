@@ -19,6 +19,7 @@ Conditions: Posséder un Œil divin
 > 
 >  **Conditions :** Posséder Œil divin
 
+---
 ### Description
 Les catalyseurs sont des armes magiques, toutes leurs attaques sont élémentaires. L'élément dépend de celui de l'utilisateur.
 **Si le porteur n'a pas d'œil divin, il ne peut pas utiliser son catalyseur.**

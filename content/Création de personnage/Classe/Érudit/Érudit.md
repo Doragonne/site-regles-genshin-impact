@@ -16,6 +16,8 @@ Dé de vie:
 >
 > **Dé de vie :** D6
 
+---
+
 _"Tout savoir est une arme."_
 
 Les Érudits consacrent leur vie à l'étude et à la compréhension du monde. Historiens, chercheurs, académiciens ou simples passionnés de connaissances, ils accumulent des informations sur les civilisations, la magie, les créatures et les phénomènes qui façonnent Teyvat. Là où d'autres voient un mystère, l'Érudit cherche une explication.
