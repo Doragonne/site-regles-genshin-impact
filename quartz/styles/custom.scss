@@ -94,7 +94,7 @@ a.internal.internal-link {
   /* L'image reste dans la colonne gauche */
   & > .callout-content > p:first-child {
     grid-column: 1;
-    grid-row: 1 / span 20;
+    grid-row: 1 / span 6;
     margin: 0;
   }
 
@@ -129,20 +129,4 @@ a.internal.internal-link {
   }
 }
 
-
-/* Réduire l'espace sous la fiche pretty-properties */
-.callout[data-callout="pretty-properties"] {
-  margin-bottom: 0.5rem;
-}
-
-/* Rapprocher la citation de la fiche */
-.callout[data-callout="pretty-properties"] + blockquote {
-  margin-top: 0.5rem;
-  margin-bottom: 0.75rem;
-}
-
-/* Rapprocher le descriptif de la citation */
-.callout[data-callout="pretty-properties"] + blockquote + p {
-  margin-top: 0.5rem;
-}
 
