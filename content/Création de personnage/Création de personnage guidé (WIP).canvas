@@ -67,11 +67,13 @@
 			"height":370,
 			"color":"3"
 		},
-		{"id":"3bcc4bc5e3062c53","x":-387,"y":161,"width":1486,"height":74,"color":"#ff0000","type":"text","text":"# Vous pouvez cliquer sur chacune des notes lié aux différentes sections de la fiche de personnage pour plus d'informations"},
-		{"id":"7698a43d8f02eda4","x":1419,"y":1133,"width":250,"height":60,"type":"text","text":""},
-		{"id":"f662a61fa2848e39","x":2276,"y":971,"width":400,"height":400,"type":"file","file":"Règles/Dictionnaire/oeil divin (WIP).md"},
+		{"id":"3bcc4bc5e3062c53","type":"text","text":"# Vous pouvez cliquer sur chacune des notes lié aux différentes sections de la fiche de personnage pour plus d'informations","x":-387,"y":161,"width":1486,"height":74,"color":"#ff0000"},
+		{"id":"7698a43d8f02eda4","type":"text","text":"","x":1419,"y":1133,"width":250,"height":60},
+		{"id":"f662a61fa2848e39","type":"file","file":"Règles/Dictionnaire/œil divin.md","x":2276,"y":971,"width":400,"height":400},
 		{"id":"8414cb24b6bc6ee2","type":"text","text":"","x":1717,"y":1609,"width":158,"height":57},
-		{"id":"cfe662c2892643b8","x":2281,"y":1440,"width":400,"height":400,"type":"file","file":"Règles/Dictionnaire/CA (Classe d'armure).md"}
+		{"id":"cfe662c2892643b8","type":"file","file":"Règles/Dictionnaire/CA (Classe d'armure).md","x":2281,"y":1440,"width":400,"height":400},
+		{"id":"1ef1771410dbfe55","type":"text","text":"","x":61,"y":2057,"width":393,"height":1912},
+		{"id":"70d2795a67232b92","type":"file","file":"Création de personnage/Caractéristiques Principales/Caractéristiques Principales.md","x":-2069,"y":2794,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"760532f83a647f3b","toFloating":false,"fromNode":"4cf98c6d3f94b3b3","fromSide":"bottom","toNode":"46de1401124919bf","toSide":"top","toEnd":"none","color":"1"},
@@ -117,7 +119,8 @@
 		},
 		{"id":"44659b050d2c57ea","fromNode":"90de8f89d3ff0946","fromSide":"left","toNode":"66e4b5f649ab48f0","toSide":"right"},
 		{"id":"699adfe51614ce11","fromNode":"7698a43d8f02eda4","fromSide":"right","toNode":"f662a61fa2848e39","toSide":"left"},
-		{"id":"f15c0544e5e1f469","fromNode":"8414cb24b6bc6ee2","fromSide":"right","toNode":"cfe662c2892643b8","toSide":"left"}
+		{"id":"f15c0544e5e1f469","fromNode":"8414cb24b6bc6ee2","fromSide":"right","toNode":"cfe662c2892643b8","toSide":"left"},
+		{"id":"65ad6aaf1c4366b8","fromNode":"1ef1771410dbfe55","fromSide":"left","toNode":"70d2795a67232b92","toSide":"right"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

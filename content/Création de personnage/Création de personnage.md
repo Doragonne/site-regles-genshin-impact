@@ -13,7 +13,7 @@ Voici les étapes de la création de personnage, qui sont chacune détaillées :
 	1. Choisir une [[Régions]] d'origine
 	2. Choisir une [[Factions]]
 3. Choisir une [[#3) Choisir son affiliation élémentaire|Affiliation élémentaire]]
-	1. Choisir un [[oeil divin (WIP)]]
+	1. Choisir un [[œil divin]]
 	2. Choisir 2 [[Résonances]] (rendez-vous dans la section [[#Résonance]] pour plus de détails)
 4. Déterminer les [[#4) Déterminer les valeurs de caractéristiques|valeurs de caractéristiques]]
 5. Guide de [[#5) Description de son personnage|Description de son personnage]], cette section sert de guide pour les nouveaux joueurs
@@ -120,19 +120,24 @@ Dans ce JDR, la magie sera utilisable par le biais de carte a jouer et deck expl
 ### Oeil divin
 
 L'**Oeil divin** est la manifestation du lien qui unit un individu à un élément. Il permet à son porteur de manipuler cet élément et d'utiliser les **capacités élémentaires** qui lui sont associées.
+(voir [[œil divin]])
 
-Lors de la création de votre personnage, vous choisissez **l'élément** de votre Oeil divin parmi les éléments disponibles :
-[[oeil divin (WIP)]]
-
+Lors de la création de votre personnage, vous choisissez **l'élément** de votre Oeil divin parmi les éléments disponibles ci-après.
 Cet élément devient votre **élément principal** et détermine les capacités élémentaires que vous pouvez apprendre.
 
-L'Oeil divin ne détermine pas votre classe ni votre région d'origine. Deux personnages appartenant à la même classe ou originaires de la même région peuvent donc posséder des Oeils divins d'éléments différents.
+Lorsque vous obtenez un œil divin, il vous accorde la maitrise d'une **caractéristique de combat** selon son **élément** comme suit : 
+
+| Œil divin | Hydro | Anemo |  Geo  |   Electro   | Pyro | Cryo  |  Dendro   |
+| :-------: | :---: | :---: | :---: | :---------: | :--: | :---: | :-------: |
+|  Elément  |  Eau  |  Air  | Terre | Electricité | Feu  | Glace |  Plante   |
+| Maitrise  |  PV   |  EM   |  DEF  |     ER      | ATQ  |  ATQ  | Aux choix |
+
+L'Oeil divin ne détermine pas votre classe ni votre région d'origine. Deux personnages appartenant à la même classe ou originaires de la même région peuvent donc posséder des Yeux divins d'éléments différents.
 
 Notez qu'il est toute fois possible de ne pas possédé d'œil divin dès le début de l'aventure. Vous pourrez en acquérir un pendant l'aventure, apres avoir effectuer quelque chose qui mérite l'attention des Dieux en accord avec votre ambition et vos valeurs. 
 *(Dans ce cas, vous pouvez directement vous rendre à l'étape 5)*
 
 ### Utilisation de l'Oeil divin
-
 Votre Oeil divin vous permet de canaliser votre élément afin d'utiliser vos **capacités élémentaires**.
 
 Ces capacités utilisent le système de **cartes** (Voir [[Cartes élémentaires]]). Votre élément n'est pas la seule chose qui détermine les capacités élémentaires que vous pouvez apprendre et utiliser.
