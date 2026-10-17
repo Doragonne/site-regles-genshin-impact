@@ -7,3 +7,45 @@ a.internal.internal-link {
   background: none !important;
 //text-decoration: underline !important;
 }
+
+/* Fiche avec image à gauche et informations à droite */
+.callout[data-callout="fiche-personnage"] {
+  --color: 180, 160, 120;
+  --border: transparent;
+  --bg: transparent;
+  --callout-icon: none;
+
+  padding: 0;
+  border: none;
+  box-shadow: none;
+
+  & > .callout-title {
+    display: none;
+  }
+
+  & > .callout-content {
+    display: grid;
+    grid-template-columns: minmax(180px, 35%) 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  & > .callout-content > p:first-child {
+    margin: 0;
+  }
+
+  & img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    object-fit: contain;
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .callout[data-callout="fiche-personnage"] > .callout-content {
+    grid-template-columns: 1fr;
+  }
+}
