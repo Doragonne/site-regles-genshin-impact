@@ -18,6 +18,7 @@ Voici les étapes de la création de personnage, qui sont chacune détaillées :
 4. Déterminer les [[#4) Déterminer les valeurs de caractéristiques|valeurs de caractéristiques]]
 5. Guide de [[#5) Description de son personnage|Description de son personnage]], cette section sert de guide pour les nouveaux joueurs
 
+📥Téléchargez vos [[Fiches personnages]]
 
 ---
 
