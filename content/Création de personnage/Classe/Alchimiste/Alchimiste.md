@@ -8,7 +8,7 @@ Dé de vie:
 ---
 > [!pretty-properties]
 > ![[Alchimiste.png]]
->**Classe :** Alchimiste
+> **Classe :** Alchimiste
 >
 > **Caractéristiques Principales recommandées :** INT, SAG
 >
