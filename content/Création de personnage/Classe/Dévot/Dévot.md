@@ -7,6 +7,15 @@ Dé de vie:
   - D8
 ---
 
+> [!pretty-properties-60]
+> ![[Devot.png]]
+> 
+> **Classe :** Dévot
+>
+> **Caractéristiques Principales recommandées :** SAG, CHA
+>
+> **Dé de vie :** D8
+
 _"Les Archons guident ceux qui savent écouter."_
 
 Les Dévots consacrent une partie importante de leur existence à la foi, aux traditions et aux forces qui régissent le monde. Prêtres, exorcistes, moines ou simples fidèles, ils ont développé une profonde compréhension des croyances et des rites de Teyvat. Leur conviction leur permet de rester solides face à l'adversité et d'apaiser ceux qui les entourent.

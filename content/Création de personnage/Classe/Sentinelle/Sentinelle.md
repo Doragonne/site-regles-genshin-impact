@@ -7,6 +7,15 @@ Dé de vie:
   - D10
 ---
 
+> [!pretty-properties-60]
+> ![[Sentinelle.png]]
+> 
+> **Classe :** Sentinelle
+>
+> **Caractéristiques Principales recommandées :** FOR, DEX
+>
+> **Dé de vie :** D10
+
 _"La meilleure victoire est celle qui empêche le combat."_
 
 Les Sentinelles ont consacré leur vie à la protection des autres. Gardes, veilleurs, protecteurs de villages ou défenseurs de lieux sacrés, ils ont appris à rester constamment attentifs à leur environnement et à réagir rapidement lorsqu'une menace apparaît.

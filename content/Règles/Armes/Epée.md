@@ -5,7 +5,20 @@ Caractéristique:
 cover: "[[Armes_EPEE.png]]"
 cssclasses:
   - cover-initial
+Dégâts: 1d6 Physique
+Conditions: Aucune
 ---
+> [!pretty-properties-60]
+> ![[Armes_EPEE.png]]
+> 
+> **Arme :** Epée
+>
+> **Caractéristiques Principales :** FOR
+>
+> **Dégâts :** 1d6 Physique
+> 
+>  **Conditions :** Aucune
+
 ### Description
 Les épées à une main sont l'intermédiaire des épées à deux mains et des lances en terme de dégâts et de vitesse d'attaque.
 

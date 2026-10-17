@@ -5,15 +5,29 @@ Caractéristique:
 cover: "[[Armes_CATALYSEUR.png]]"
 cssclasses:
   - cover-initial
+Dégâts: 1d6 élémentaire
+Conditions: Posséder un Œil divin
 ---
+> [!pretty-properties-60]
+> ![[Armes_CATALYSEUR.png]]
+> 
+> **Arme :** Catalyseur
+>
+> **Caractéristiques Principales :** INT
+>
+> **Dégâts :** 1d6 élémentaire
+> 
+>  **Conditions :** Posséder Œil divin
+
 ### Description
 Les catalyseurs sont des armes magiques, toutes leurs attaques sont élémentaires. L'élément dépend de celui de l'utilisateur.
+**Si le porteur n'a pas d'œil divin, il ne peut pas utiliser son catalyseur.**
 
 
 ---
 ### Attaque normale 
 <font color="#7f7f7f">Le joueur peut effectuer une attaque normale lors d'une action d'attaque.</font>
-1d6 élémentaires. L'élément dépend de l'œil divin du porteur
+1d6 élémentaires. L'élément dépend de l'œil divin du porteur. 
 
 ### Attaque chargée
 <font color="#7f7f7f">Pour effectuer une attaque chargée, le joueur doit utiliser toute son action de mouvement ou utiliser son action pour se préparer (concentration) a attaquer au prochain tour. Si le joueur se fait toucher pendant sa concentration, elle est interrompu. </font>

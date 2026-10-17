@@ -7,6 +7,15 @@ Dé de vie:
   - D8
 ---
 
+> [!pretty-properties-60]
+> ![[CHasseur.png]]
+> 
+> **Classe :** Chasseur
+>
+> **Caractéristiques Principales recommandées :** DEX, SAG
+>
+> **Dé de vie :** D8
+
 _"La nature parle à ceux qui prennent le temps de l'écouter."_
 
 Les Chasseurs ont appris à vivre au contact de la nature. Ils savent suivre une piste, trouver de quoi se nourrir, reconnaître les dangers d'un environnement et comprendre le comportement des créatures qui y vivent. Qu'ils chassent pour se nourrir, pour protéger leur village ou simplement par passion, ils sont rarement pris au dépourvu lorsqu'ils se trouvent loin des villes.

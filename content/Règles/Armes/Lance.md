@@ -5,7 +5,20 @@ Caractéristique:
 cover: "[[Armes_LANCE.png]]"
 cssclasses:
   - cover-initial
+Dégâts: 2d4 Physique
+Conditions: Aucune
 ---
+> [!pretty-properties-60]
+> ![[Armes_LANCE.png]]
+> 
+> **Arme :** Lance
+>
+> **Caractéristiques Principales :** DEX
+>
+> **Dégâts :** 2d4 Physique
+> 
+>  **Conditions :** Aucune
+
 ### Description
 Les armes d'hast sont celles qui ont la vitesse d'attaque la plus élevée en plus de disposer d'une bonne portée.
 

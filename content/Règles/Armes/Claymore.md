@@ -5,7 +5,20 @@ Caractéristique:
 cover: "[[Armes_CLAYMORE.png]]"
 cssclasses:
   - cover-initial
+Dégâts: 1d8 Physique
+Conditions: Aucune
 ---
+> [!pretty-properties-60]
+> ![[Armes_CLAYMORE.png]]
+> 
+> **Arme :** Claymore
+>
+> **Caractéristiques Principales :** FOR
+>
+> **Dégâts :** 1d8 Physique
+> 
+>  **Conditions :** Aucune
+
 ### Description
 Les épées à deux mains sont les armes les plus lentes mais en contrepartie elles infligent plus de dégâts à chaque attaque. Elles octroient également un bonus pour casser les objets Géo.
 

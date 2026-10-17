@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Création de personnage/Armes"
+    - file.folder == "Règles/Armes"
     - file.name != link("Armes")
 views:
   - type: table
@@ -8,3 +8,8 @@ views:
     order:
       - file.name
       - Caractéristique
+      - Dégâts
+      - Conditions
+    sort:
+      - property: Caractéristique
+        direction: ASC

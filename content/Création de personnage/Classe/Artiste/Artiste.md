@@ -5,7 +5,16 @@ Caractéristique:
 Dé de vie:
   - D8
 ---
- 
+
+> [!pretty-properties-60]
+> ![[Artiste.png]]
+> 
+> **Classe :** Artiste
+>
+> **Caractéristiques Principales recommandées :** CHA
+>
+> **Dé de vie :** D8
+
 _"Une chanson peut changer un cœur plus sûrement qu'une épée."_
 
 Les Artistes utilisent leur talent pour transmettre des émotions et rassembler ceux qui les entourent. Musiciens, chanteurs, danseurs, conteurs ou comédiens, ils savent inspirer le courage, apaiser les tensions et donner de l'espoir dans les moments difficiles. Leur art ne se limite pas au spectacle : il est une manière de toucher les autres et de leur rappeler pourquoi ils continuent d'avancer.

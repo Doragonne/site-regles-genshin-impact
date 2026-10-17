@@ -5,7 +5,22 @@ Caractéristique:
 cover: "[[Armes_ARC.png]]"
 cssclasses:
   - cover-initial
+Dégâts: 1d6 Physique ou élémentaire
+Conditions: Œil divin recommandé
 ---
+
+> [!pretty-properties-60]
+> ![[Armes_ARC.png]]
+> 
+> **Arme :** Arc
+>
+> **Caractéristiques Principales :** DEX
+>
+> **Dégâts :** 1d6 Physique ou élémentaire
+> 
+>  **Conditions :** Œil divin recommandé
+
+
 
 
 ### Description
@@ -20,7 +35,7 @@ Les arcs permettent d'attaquer à distance et disposent donc de la portée la pl
 ### Attaque chargée
 <font color="#7f7f7f">Pour effectuer une attaque chargée, le joueur doit utiliser toute son action de mouvement ou utiliser son action pour se préparer (concentration) a attaquer au prochain tour. Si le joueur se fait toucher pendant sa concentration, elle est interrompu. </font>
 Permet de tirer une flèche Infusée sur une plus longue distance et de viser un point précis infligeant 1d6 DGT Élémentaire. 
-
+**Si le porteur n'a pas d'œil divin, les dégâts deviennent physiques**
 ### Attaque plongeante 
 <font color="#7f7f7f">Pour effectuer une attaque plongeante, le joueur doit déjà etre dans les airs avec tous ses points de mouvement restant.</font>
 Le joueur plonge accompagné d’une pluie de flèche, infligeant 1d6 DGT Physiques par ennemis touché dans une petite zone (chaque ennemi peut esquiver)

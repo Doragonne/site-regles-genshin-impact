@@ -8,14 +8,15 @@ Liens: https://genshin-impact.fandom.com/fr/wiki/Amurta
 ---
 
 
-
 > [!fiche-personnage]
-> ![[z_Assets/zImages/Darshans/Amurta.png]]
+> ![[Amurta.png]]
 >
-> **Région :** Sumeru
+> **Nom :** Amurta
 >
-> **Type :** Darshan
+> **Spécialité :** Biologie
 >
-> **Fonction :** Études de l'astronomie
+> **Couleur :** Vert
 >
-> **Description :** Description du personnage ou de l'organisation.
+> **Sages :** Naphis
+> 
+> **Lien** : https://genshin-impact.fandom.com/fr/wiki/Amurta

@@ -6,6 +6,15 @@ Dé de vie:
   - D8
 ---
 
+> [!pretty-properties-60]
+> ![[Eclaireur.png]]
+> 
+> **Classe :** Eclaireur
+>
+> **Caractéristiques Principales recommandées :** SAG
+>
+> **Dé de vie :** D8
+
 _"La nature ne protège pas les plus forts. Elle protège ceux qui savent s'y adapter."_
 
 Les Éclaireurs vivent au plus près de la nature. Ils connaissent les plantes, les créatures et les secrets des régions sauvages. Habitués à voyager loin de toute civilisation, ils savent trouver de quoi se nourrir, soigner une blessure et guider leurs compagnons à travers des territoires hostiles.

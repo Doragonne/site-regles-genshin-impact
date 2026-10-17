@@ -7,6 +7,16 @@ Dé de vie:
   - D6
 ---
 
+> [!pretty-properties-60]
+> ![[Aristrocrate.png]]
+> 
+> **Classe :** Aristocrate
+>
+> **Caractéristiques Principales recommandées :** CHA, SAG
+>
+> **Dé de vie :** D6
+
+
 _"Le pouvoir ne réside pas toujours dans celui qui donne les ordres, mais dans celui que tout le monde écoute."_
 
 Les Aristocrates sont issus de familles influentes, de grandes maisons ou de lignées ayant occupé des positions importantes dans la société. Élevés dans un environnement privilégié, ils ont appris les règles de l'étiquette, les jeux politiques et l'art de s'imposer dans les cercles de pouvoir.

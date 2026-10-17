@@ -7,6 +7,15 @@ Dé de vie:
   - D8
 ---
 
+> [!pretty-properties-60]
+> ![[Hors la loi.png]]
+> 
+> **Classe :** Hors-la-loi
+>
+> **Caractéristiques Principales recommandées :** DEX, CHA
+>
+> **Dé de vie :** D8
+
 *"Les règles existent surtout pour ceux qui se font prendre."*
 
 Les Hors-la-loi vivent en marge de la société. Voleurs, contrebandiers, espions, faussaires ou criminels recherchés, ils ont appris à se déplacer sans être remarqués, à manipuler les autres et à obtenir ce qu'ils désirent sans attirer l'attention.

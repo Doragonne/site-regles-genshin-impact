@@ -7,6 +7,15 @@ Dé de vie:
   - D8
 ---
 
+> [!pretty-properties-60]
+> ![[Artisan.png]]
+> 
+> **Classe :** Artisan
+>
+> **Caractéristiques Principales recommandées :** DEX, INT
+>
+> **Dé de vie :** D8
+
 _"Chaque chef-d'œuvre commence par un simple outil."_
 
 Les Artisans consacrent leur vie à créer, réparer et perfectionner toutes sortes d'objets. Forgerons, menuisiers, joailliers, couturiers ou artisans spécialisés, ils possèdent un savoir-faire pratique qui leur permet de transformer les matières premières en objets utiles et de redonner vie à ce qui semblait irrécupérable.

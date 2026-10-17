@@ -68,7 +68,7 @@ a.internal.internal-link {
   }
 }
 
-.callout[data-callout="pretty-properties"] {
+.callout[data-callout="pretty-properties-60"] {
   --color: 180, 160, 120;
   --border: transparent;
   --bg: transparent;
@@ -116,7 +116,7 @@ a.internal.internal-link {
 }
 
 @media (max-width: 600px) {
-  .callout[data-callout="pretty-properties"] {
+  .callout[data-callout="pretty-properties-60"] {
     & > .callout-content {
       grid-template-columns: 1fr;
     }

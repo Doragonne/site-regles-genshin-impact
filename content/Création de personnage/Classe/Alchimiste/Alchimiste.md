@@ -6,7 +6,7 @@ Caractéristique:
 Dé de vie:
   - D8
 ---
-> [!pretty-properties]
+> [!pretty-properties-60]
 > ![[Alchimiste.png]]
 > 
 > **Classe :** Alchimiste

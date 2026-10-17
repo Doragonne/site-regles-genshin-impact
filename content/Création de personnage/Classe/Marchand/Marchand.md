@@ -7,6 +7,15 @@ Dé de vie:
   - D6
 ---
 
+> [!pretty-properties-60]
+> ![[Marchand.png]]
+> 
+> **Classe :** Marchand
+>
+> **Caractéristiques Principales recommandées :** CHA, INT
+>
+> **Dé de vie :** D6
+
 _"Tout a un prix. Encore faut-il le connaître."_
 
 Les Marchands parcourent les routes de Teyvat pour acheter, vendre et échanger toutes sortes de marchandises. Ils ont appris à reconnaître une bonne affaire, à négocier avec leurs interlocuteurs et à comprendre les besoins de ceux qui les entourent. Qu'ils dirigent une boutique, accompagnent une caravane ou voyagent seuls, ils savent que la connaissance du marché peut être aussi précieuse qu'une bonne lame.
