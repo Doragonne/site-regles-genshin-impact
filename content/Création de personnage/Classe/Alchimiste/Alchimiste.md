@@ -6,6 +6,17 @@ Caractéristique:
 Dé de vie:
   - D8
 ---
+> [!pretty-properties]
+> ![[Alchimiste.png]]
+>
+> **Région :** Sumeru
+>
+> **Type :** Darshan
+>
+> **Fonction :** Études de l'astronomie
+>
+> **Description :** Description du personnage ou de l'organisation.
+
 
 _"La différence entre un remède et un poison n'est parfois qu'une question de dosage."_
 
