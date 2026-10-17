@@ -128,3 +128,12 @@ a.internal.internal-link {
     }
   }
 }
+
+/* Réduire l'espace après la fiche */
+.callout[data-callout="pretty-properties"] {
+  margin-bottom: 0.5rem;
+
+  & + p {
+    margin-top: 0.5rem;
+  }
+}
