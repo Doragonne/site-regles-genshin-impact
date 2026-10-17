@@ -10,17 +10,19 @@ cover: "[[Fontaine Icon.png]]"
 tags:
   - Region
 ---
-> [!fiche-personnage]
+> [!pretty-properties-180]
 > ![[Fontaine Icon.png]]
 >
 > **Nom :** Fontaine
+>
+> **Elément Dominant :** Hydro
 >
 > **Archon :** -
 >
 > **Idéal :** Justice
 >
 > **Corps dirigeant :** Palais Mermonia
-> 
+>
 > **Inspiration** : Europe Occidentale
 
 Fontaine est connue pour sa technologie avancée, ses inventions, ses spectacles et son système judiciaire complexe.

@@ -10,6 +10,24 @@ cover: "[[Inazuma Icon.png]]"
 tags:
   - Region
 ---
+
+> [!pretty-properties-180]
+> ![[Inazuma Icon.png]]
+>
+> **Nom :** Inazuma
+>
+> **Elément Dominant :** Electro
+>
+> **Archon :** Baal (Ei)
+>
+> **Idéal :** Eternité
+>
+> **Corps dirigeant :** Shogunat d'inazuma
+>
+> **Inspiration** : Edo Japon
+
+
+
 Inazuma est un archipel marqué par son isolement, ses traditions ancestrales et la présence de nombreuses créatures surnaturelles.
 
 ### Compétence régionale
