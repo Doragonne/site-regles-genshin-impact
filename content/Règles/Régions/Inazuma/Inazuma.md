@@ -26,7 +26,7 @@ tags:
 >
 > **Inspiration** : Edo Japon
 
-
+---
 
 Inazuma est un archipel marqué par son isolement, ses traditions ancestrales et la présence de nombreuses créatures surnaturelles.
 

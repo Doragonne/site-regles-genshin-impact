@@ -10,6 +10,25 @@ cover: "[[Mondstadt Icon.png]]"
 tags:
   - Region
 ---
+
+> [!pretty-properties-180]
+> ![[Mondstadt Icon.png]]
+>
+> **Nom :** Mondstadt
+>
+> **Elément Dominant :** Anemo
+>
+> **Archon :** Barbatos (venti)
+>
+> **Idéal :** Liberté
+>
+> **Corps dirigeant :** Ordre de favonius
+>
+> **Inspiration** : Europe centrale médiévale
+
+---
+
+
 Mondstadt est une région connue pour sa culture de la liberté, ses chevaliers, ses bardes et ses vastes plaines. Ses habitants sont généralement habitués à voyager et à vivre de manière relativement indépendante.
 
 Vous pouvez lancer des jet de connaissance **Folklore**, **Histoire**, et **Mystère** même si vous ne possédez pas ces connaissances, si cela concerne cette région.

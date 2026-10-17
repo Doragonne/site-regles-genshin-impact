@@ -2,7 +2,7 @@
 Element:
   - Cryo
 Archon:
-  - "Tsarine (Anastasya )\r"
+  - Tsarine (Anastasya )
 Idéal: Amour
 Corps dirigeant: ???
 Inspiration: Russie
@@ -10,6 +10,25 @@ cover: "[[Snezhnaya icon.png]]"
 tags:
   - Region
 ---
+
+> [!pretty-properties-180]
+> ![[Snezhnaya icon.png]]
+>
+> **Nom :** Snezhnaya
+>
+> **Elément Dominant :** Cryo
+>
+> **Archon :** Tsarine (Anastasya )
+>
+> **Idéal :** Amour
+>
+> **Corps dirigeant :** ???
+>
+> **Inspiration** : Russie
+
+---
+
+
 Snezhnaya est une nation puissante, industrielle et profondément liée aux Fatui. Ses habitants sont habitués à vivre dans un climat difficile et dans une société où l'organisation et l'influence politique occupent une place importante.
 
 ### Compétence régionale

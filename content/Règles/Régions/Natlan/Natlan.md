@@ -10,6 +10,25 @@ cover: "[[Natlan Icon.png]]"
 tags:
   - Region
 ---
+
+> [!pretty-properties-180]
+> ![[Natlan Icon.png]]
+>
+> **Nom :** Natlan
+>
+> **Elément Dominant :** Pyro
+>
+> **Archon :** Haborym (Mavuika)
+>
+> **Idéal :** Guerre
+>
+> **Corps dirigeant :** Bureau de délibération
+>
+> **Inspiration** : Amérique précolombienne, Afrique subsaharienne et Océanie
+
+---
+
+
 Natlan est une région où les peuples entretiennent un lien particulièrement fort avec les flammes, les combats, les tribus et les créatures qui parcourent ses terres.
 
 ### Compétence régionale
