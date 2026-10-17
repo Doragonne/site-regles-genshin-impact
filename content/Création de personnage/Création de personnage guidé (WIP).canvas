@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"2bdd63c872d3b8f0","type":"file","file":"Création de personnage/Classe/Classe.md","x":-2208,"y":1207,"width":544,"height":288,"color":"1"},
-		{"id":"b8da38c134e1861b","type":"file","file":"Règles/Régions/Régions.md","x":-2203,"y":779,"width":537,"height":409,"color":"4"},
 		{
 			"id":"7ffc6357500e2f70",
 			"type":"text",
@@ -25,7 +24,6 @@
 			"color":"3"
 		},
 		{"id":"70d2795a67232b92","type":"file","file":"Création de personnage/Caractéristiques Principales/Caractéristiques Principales.md","x":-2198,"y":2718,"width":529,"height":476},
-		{"id":"cb22c8e39032174a","type":"text","text":"[[Régions]]","x":-2007,"y":604,"width":250,"height":60},
 		{
 			"id":"36f843aeb9348ee0",
 			"type":"text",
@@ -74,7 +72,8 @@
 		{"id":"4cf98c6d3f94b3b3","type":"file","file":"Création de personnage/Résonances/Résonances.md","x":-268,"y":766,"width":400,"height":183,"color":"1"},
 		{"id":"f662a61fa2848e39","type":"file","file":"Règles/Dictionnaire/œil divin.md","x":765,"y":902,"width":400,"height":400},
 		{"id":"cfe662c2892643b8","type":"file","file":"Règles/Dictionnaire/CA (Classe d'armure).md","x":770,"y":1371,"width":400,"height":400},
-		{"id":"3bcc4bc5e3062c53","type":"text","text":"# Vous pouvez cliquer sur chacune des notes lié aux différentes sections de la fiche de personnage pour plus d'informations","x":-974,"y":399,"width":1538,"height":147,"color":"#ff0000"}
+		{"id":"3bcc4bc5e3062c53","type":"text","text":"# Vous pouvez cliquer sur chacune des notes lié aux différentes sections de la fiche de personnage pour plus d'informations","x":-974,"y":399,"width":1538,"height":147,"color":"#ff0000"},
+		{"id":"b8da38c134e1861b","type":"file","file":"Règles/Régions/Régions.md","x":-2200,"y":736,"width":537,"height":409,"color":"4"}
 	],
 	"edges":[
 		{"id":"760532f83a647f3b","toFloating":false,"fromNode":"4cf98c6d3f94b3b3","fromSide":"bottom","toNode":"46de1401124919bf","toSide":"top","toEnd":"none","color":"1"},
@@ -121,7 +120,6 @@
 		{"id":"44659b050d2c57ea","fromNode":"90de8f89d3ff0946","fromSide":"left","toNode":"66e4b5f649ab48f0","toSide":"right","toEnd":"none"},
 		{"id":"699adfe51614ce11","fromNode":"7698a43d8f02eda4","fromSide":"right","toNode":"f662a61fa2848e39","toSide":"left"},
 		{"id":"f15c0544e5e1f469","fromNode":"8414cb24b6bc6ee2","fromSide":"right","toNode":"cfe662c2892643b8","toSide":"left"},
-		{"id":"fa7524b00f91eed5","fromNode":"8f93b3d16e8895b6","fromSide":"left","toNode":"cb22c8e39032174a","toSide":"right"},
 		{"id":"dc65760f052f4164","fromNode":"70d2795a67232b92","fromSide":"right","toNode":"1ef1771410dbfe55","toSide":"bottom","toEnd":"none"}
 	],
 	"metadata":{
