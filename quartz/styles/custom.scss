@@ -155,7 +155,7 @@ a.internal.internal-link {
   /* L'image reste dans la colonne gauche */
   & > .callout-content > p:first-child {
     grid-column: 1;
-    grid-row: 1 / span 6;
+    grid-row: 1 / span 8;
     margin: 0;
   }
 
