@@ -25,9 +25,9 @@ Pour calculer rapidement un modificateur, soustrayez **10 à la valeur de la car
 
 
 > [!NOTE] A la création de personnage
-> Vous déterminez les six valeurs de caractéristiques de votre personnage, utilisez la série suivante : 15, 14, 13, 12, 10, 8.
+> Vous déterminez les 5 valeurs de caractéristiques de votre personnage, utilisez la série suivante : 14, 13, 12, 10, 8.
 > 
-> Maintenant, affectez et notez chaque nombre en face de l'une des six caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
+> Maintenant, affectez et notez chaque nombre en face de l'une des 5 caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
 > 
 > Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessus. 
 > Inscrivez chaque modificateur au dessus de la caractéristique correspondante.

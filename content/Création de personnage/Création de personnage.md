@@ -177,9 +177,9 @@ Les 5 caractéristiques et leurs utilisations en jeu sont décrites dans le chap
 - **Sagesse** — perception, intuition, expérience et compréhension du monde.
 - **Charisme** — personnalité, assurance, influence et capacité à interagir avec les autres.
 
-Vous déterminez les six valeurs de caractéristiques de votre personnage, utilisez la série suivante : 15, 14, 13, 12, 10, 8.
+Vous déterminez les 5 valeurs de caractéristiques de votre personnage, utilisez la série suivante : 14, 13, 12, 10, 8.
 
-Maintenant, affectez et notez chaque nombre en face de l'une des six caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
+Maintenant, affectez et notez chaque nombre en face de l'une des 5 caractéristiques, afin d’avoir une valeur en Force, Dextérité, Intelligence, Sagesse et Charisme. 
 
 Déterminez ensuite vos **modificateurs de caractéristiques** en vous référant à la table ci-dessous. Pour calculer la valeur d'un modificateur sans utiliser la table, soustrayez 10 à la valeur, et divisez le résultat par 2, en conservant la partie entière inférieure. Inscrivez chaque modificateur au dessus de la caractéristique correspondante.
 
